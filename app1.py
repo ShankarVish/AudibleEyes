@@ -53,7 +53,7 @@ def predict_audio_class(file_path):
     return "Error in processing"
 
 # Main app
-st.title("🎧 Audio Classification App")
+st.title("I LOVE YOU ASHSHU...!!  SORRY BABY....!!")
 
 # Create tabs
 tab1, tab2 = st.tabs(["📁 Upload Audio", "🎤 Record Audio"])
