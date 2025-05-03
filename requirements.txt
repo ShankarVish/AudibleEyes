@@ -11,3 +11,4 @@ tqdm
 audio_recorder_streamlit
 IPython
 pickle-mixin
+resampy
